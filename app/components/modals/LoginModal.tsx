@@ -43,12 +43,12 @@ const LoginModal = () => {
         icon={FcGoogle}
         onClick={() => signIn('google')}
       />
-      <Button
+      {/* <Button
         outline
         label="Continue with Github"
         icon={AiFillGithub}
         onClick={() => signIn('github')}
-      />
+      /> */}
       <div className="flex flex-row justify-center items-center gap-2 mt-4">
         <div className="flex text-[#00274C]">Don&apos;t have an account?</div>
         <div
