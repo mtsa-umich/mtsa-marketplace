@@ -11,7 +11,7 @@ const Logo = () => {
     <a href='/'>
       <Image
           alt='logo'
-          src= '/images/marketplace-color-logo.png'
+          src= '/images/marketplace-logo.png'
           className='block cursor-pointer pb-3 px-4 pt-4'
           height='65'
           width='260'
