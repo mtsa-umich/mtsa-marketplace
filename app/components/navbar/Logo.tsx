@@ -14,7 +14,7 @@ const Logo = () => {
           src= '/images/marketplace-logo.png'
           className='block cursor-pointer pb-3 px-4 pt-4'
           height='65'
-          width='260'
+          width='400'
         />
     </a>
   )
