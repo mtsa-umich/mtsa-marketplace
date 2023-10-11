@@ -47,9 +47,9 @@ const Searchbar = () => {
           placeholder="Search"
           value={search}
           onChange={handleSearchChange}
-          className="p-2 rounded-l-3xl w-44 xl:w-60 2xl:w-80 focus:outline-none"
+          className="p-2 rounded-l-lg w-44 xl:w-60 2xl:w-80 focus:outline-none"
         />
-        <button type="submit" className="p-2 rounded-r-3xl bg-white">
+        <button type="submit" className="p-2 rounded-r-lg bg-white">
           <div className="rounded-full">
             <AiOutlineSearch size={28} />
           </div>
